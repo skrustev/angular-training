@@ -1,5 +1,7 @@
 # angular-training
 
+[![Build Status](https://travis-ci.org/skrustev/angular-training.svg?branch=master)](https://travis-ci.org/skrustev/angular-training)
+
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 4.1.3.
 
 ## Development server
